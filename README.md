@@ -1,5 +1,4 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : Salsabilla Ahmad
+NIM  : 21343072
+Kesimpulan Pada JS-06 ini, latihan ini merupakan contoh dari percabangan dari if-else yang mana pada kasus ini mencari total diskon pembelian yang mana jika total pembelian mencapai atau melebihi harga yang ditentukan maka diskon yang didapatkan 10%. Pada percabangan if-else yang mana latiham ini memasukkan else.else digunakan jika tidak ada lagi percabangan yang bisa diambil. kasus yang diangkat sama namun jika total pembelian tidak mencapai target tertentu yang di tentukan pada if maka akan beralih kepada else yaitu diskon sebesar latihan ini masih menggunakan percabangan if-else yang mana pada kasus ini if else digunakan dengan 2 ketentuan 
+tugas ini menggunakan bufferedreader sebagai kelas java. setelah dicari rata-rata dari inputan makan percabangan if-else dilakukan sesuai dengan ketentuan. Tugas ini mempunyai kasus yang sama dengan 1a namun menggunakan kelas JOptionPane.
